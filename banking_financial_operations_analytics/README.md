@@ -78,5 +78,31 @@ Actual dataset column names may differ. Update the scripts after confirming the 
 - [ ] Power BI dashboard completed
 - [ ] Business recommendations documented
 
-## Important
-Use a public, appropriately licensed dataset. Do not upload real customer data, account numbers, personal information, or confidential employer data to GitHub.
+## Python Analysis – Key Findings
+
+### Overall Transaction Performance
+- Total transactions: 10,000
+- Successful transactions: 9,233 (92.33%)
+- Failed transactions: 496 (4.96%)
+- Pending transactions: 271 (2.71%)
+
+### Payment Method Analysis
+- Net Banking had the highest failure rate: 7.28%.
+- UPI recorded the highest number of failures: 194.
+- NEFT/RTGS had the lowest failure rate: 2.55%.
+
+### Regional Analysis
+- North had the highest regional failure rate: 5.53%.
+- South had the lowest regional failure rate: 4.41%.
+
+### Branch Analysis
+- Jaipur had the highest branch failure rate: 7.06%.
+- Indore had the lowest branch failure rate: 3.24%.
+
+### Monthly Analysis
+- April had the highest failure rate: 7.11%.
+- March recorded the second-highest failure rate: 6.52%.
+- February had the lowest failure rate: 3.69%.
+
+### Business Recommendation
+Investigate Net Banking failures, review high-failure branches, and monitor monthly transaction performance to identify areas requiring operational improvement.
