@@ -70,5 +70,3 @@ The interactive Excel dashboard includes:
 ## Disclaimer
 This project uses synthetic data created exclusively for educational and portfolio purposes. It does not contain real customer or banking information.
 
-This project uses synthetic data created exclusively for educational and portfolio purposes. It does not contain real customer or banking information.
-
