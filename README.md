@@ -43,7 +43,9 @@ This project analyzes 10,000 synthetic banking transactions using Python, Pandas
 - **Highest monthly failure rate:** April – 7.11%
 
 ## Excel Dashboard
+### Dashboard Preview
 
+![Banking Analytics Dashboard](banking_financial_operations_analytics/reports/banking_dashboard_preview.png)
 The interactive Excel dashboard includes:
 
 - 8 analytical charts covering transaction performance, payment methods, monthly trends, regional performance, and branch-level failures.
@@ -69,3 +71,4 @@ The interactive Excel dashboard includes:
 This project uses synthetic data created exclusively for educational and portfolio purposes. It does not contain real customer or banking information.
 
 This project uses synthetic data created exclusively for educational and portfolio purposes. It does not contain real customer or banking information.
+
